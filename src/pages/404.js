@@ -29,7 +29,7 @@ const NotFoundPage = () => {
   return (
     <main style={pageStyles}>
       <title>Not found</title>
-      <h1 style={headingStyles}>Page not found</h1>
+      <h1 style={headingStyles}> Sorry Page not found, you have reached the Dead-End !</h1>
       <p style={paragraphStyles}>
         Sorry{" "}
         <span role="img" aria-label="Pensive emoji">
