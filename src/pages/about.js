@@ -11,7 +11,8 @@ const AboutPage = ({ }) => {
       <h1>SK Web Development career background</h1>
       <Link to="/">Home</Link> <br />
       <Link to="/about">About</Link> <br />
-      <Link to="/404">404 Error Page</Link> <br />
+      <Link to="/blog">Blog Page</Link> <br />
+       <Link to="/404">404 Error Page</Link> <br />
       <p>My software Development journey began some years ago with JavaScript and JAVA programming when I joined
            a university program.</p>
       <p>But my real office application development began when I designed forms and created</p>
